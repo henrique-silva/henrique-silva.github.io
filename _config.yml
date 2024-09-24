@@ -5,3 +5,5 @@ url: https://henrique-silva.github.io
 github_username:  henrique-silva
 
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
+plugins:
+  - jemoji
